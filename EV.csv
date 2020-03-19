@@ -1,0 +1,9 @@
+,Acidification EV,Climate change EV,Freshwater ecotoxicity EV,Freshwater eutrophication EV,"Human toxicity, cancer effects EV"
+Vehicle,0.00031,0.04707,4.99503,5.70997e-05,1.42208e-08
+Battery,0.00024,0.01572,1.72867,4.24891e-05,4.09319e-09
+Electricity production,7.62778e-05,0.01479,0.15144,8.07815e-06,2.39531e-09
+Road,4.7848e-05,0.00616,0.03378,1.60204e-06,4.74903e-10
+Maintenance,3.07847e-05,0.00605,0.08502,2.56831e-06,4.74864e-10
+Brake wear,4.89863e-08,0,0.01316,0,3.34291e-13
+Tyre wear,4.32831e-08,0,0.02781,0,1.19283e-11
+Road wear,0,0,0,0,0
